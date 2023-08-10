@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "299693352378",
+    "project_id": "vizitka-a6f74",
+    "storage_bucket": "vizitka-a6f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299693352378:android:61d7b043b453f45db82983",
+        "android_client_info": {
+          "package_name": "com.mika.vizitka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299693352378-ne9gccgkps17ehl463edrd90ofes0auu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bwNfrTqICEk3KtZ4VV2H2NyaEabPsXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299693352378-ne9gccgkps17ehl463edrd90ofes0auu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299693352378-4o3rbjvkjts353pomc07tbfuv363ec6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mika.vizitka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

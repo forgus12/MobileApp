@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://dev.vzt.bz/.well-known/assetlinks.json\" }]</string>
+</resources>
